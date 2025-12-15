@@ -1,12 +1,15 @@
-## Hi there 👋
+# Bienvenidos al equipo de Desarrollo
 
-<!--
+Aquí centralizamos nuestros recursos y guías.
 
-**Here are some ideas to get you started:**
+## 📚 Documentación Oficial
+Toda la documentación técnica se ha unificado. Por favor, consulta:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 🏛 **[Arquitectura del Sistema](LINK_AL_REPO_DOCS/arquitectura.md)**: Diagramas, decisiones y stack tecnológico.
+* 📖 **[Manual del Desarrollador](LINK_AL_REPO_DOCS/dev-manual.md)**: Cómo levantar el entorno, guías de estilo y git flow.
+* 🔧 **[Backend Docs](LINK_AL_REPO_DOCS/backend/)**: Específico para el equipo de back.
+
+## 🚦 Repositorios Principales
+* `backend-core`: API principal.
+* `frontend-app`: Web cliente.
+* `docs`: Repositorio central de documentación.
