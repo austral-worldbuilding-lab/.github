@@ -1,7 +1,5 @@
 # Bienvenidos al equipo de Desarrollo 🦄
 
-Aquí centralizamos nuestros recursos y guías para el **Austral Worldbuilding Lab**.
-
 ## Documentación Oficial
 Toda la documentación técnica está unificada. Por favor, consulta:
 
