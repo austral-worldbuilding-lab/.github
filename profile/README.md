@@ -4,8 +4,8 @@
 Toda la documentación técnica está unificada. Por favor, consulta:
 
 * 📖 **[Arquitectura del Sistema](https://github.com/austral-worldbuilding-lab/docs/blob/main/ARCHITECTURE.md)**: Diagramas, decisiones y stack tecnológico.
-* 📖 **[Manual del Desarrollador Backend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_BACK.md)**: Cómo levantar el entorno, guías de estilo y git flow.
-* 📖 **[Manual del Desarrollador Frontend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_FRONT.md)**: Cómo levantar el entorno, guías de estilo y git flow.
+* 📖 **[Manual del Desarrollador Backend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_BACK.md)**
+* 📖 **[Manual del Desarrollador Frontend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_FRONT.md)**
 
 ## Repositorios Principales
 Estos son los repositorios principales de la aplicación:
