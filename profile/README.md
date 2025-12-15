@@ -1,16 +1,22 @@
-# Bienvenidos al equipo de Desarrollo del Austral Worldbuilding Lab
+# Bienvenidos al equipo de Desarrollo 🦄
 
-## 📚 Documentación Oficial
-Toda la documentación técnica esta unificada. Por favor, consulta:
+Aquí centralizamos nuestros recursos y guías para el **Austral Worldbuilding Lab**.
 
-* 🏛 **[Arquitectura del Sistema](LINK_AL_REPO_DOCS/arquitectura.md)**: Diagramas, decisiones y stack tecnológico.
-* 📖 **[Manual del Desarrollador Backend](LINK_AL_REPO_DOCS/dev-manual.md)**: Cómo levantar el entorno, guías de estilo y git flow.
-* 📖 **[Manual del Desarrollador Frontend](LINK_AL_REPO_DOCS/dev-manual.md)**: Cómo levantar el entorno, guías de estilo y git flow.
+## Documentación Oficial
+Toda la documentación técnica está unificada. Por favor, consulta:
 
-## 🚦 Repositorios Principales
+* 📖 **[Arquitectura del Sistema](https://github.com/austral-worldbuilding-lab/docs/blob/main/ARCHITECTURE.md)**: Diagramas, decisiones y stack tecnológico.
+* 📖 **[Manual del Desarrollador Backend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_BACK.md)**: Cómo levantar el entorno, guías de estilo y git flow.
+* 📖 **[Manual del Desarrollador Frontend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_FRONT.md)**: Cómo levantar el entorno, guías de estilo y git flow.
+
+## Repositorios Principales
+Estos son los proyectos core de la aplicación:
 * `backend`: API principal.
 * `frontend`: Web cliente.
 * `docs`: Repositorio central de documentación.
-  al pie..
-* `ai-test`: Repositorio utilizado para el reserach de ai.
-* * `konva-firestore-test`: Repositorio utilizado para el research de konva para visualizar la mandala
+
+## Research & Experiments
+Repositorios utilizados para pruebas de concepto (PoC) y nuevos features:
+
+* `ai-test`: Investigación y pruebas de integración de AI.
+* `konva-firestore-test`: Research sobre la librería Konva para visualizar la mandala con Firestore.
