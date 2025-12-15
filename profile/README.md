@@ -8,7 +8,7 @@ Toda la documentación técnica está unificada. Por favor, consulta:
 * 📖 **[Manual del Desarrollador Frontend](https://github.com/austral-worldbuilding-lab/docs/blob/main/DEVELOPER_MANUAL_FRONT.md)**: Cómo levantar el entorno, guías de estilo y git flow.
 
 ## Repositorios Principales
-Estos son los proyectos core de la aplicación:
+Estos son los repositorios principales de la aplicación:
 * `backend`: API principal.
 * `frontend`: Web cliente.
 * `docs`: Repositorio central de documentación.
