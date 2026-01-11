@@ -18,3 +18,5 @@ Repositorios utilizados para pruebas de concepto (PoC) y nuevos features:
 
 * `ai-test`: Investigación y pruebas de integración de AI.
 * `konva-firestore-test`: Research sobre la librería Konva para visualizar la mandala con Firestore.
+* `awbl-lovable-PoC`: Proof of Concept realizada en Lovable
+* `awbl-v0-PoC`: Proof of Concept realizada en v0 
